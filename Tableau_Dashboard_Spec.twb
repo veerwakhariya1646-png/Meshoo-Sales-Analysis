@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workbook source-build="2020.1.0" xmlns:user="http://www.tableausoftware.com/xml/user">
+  <datasources>
+    <datasource name="Meesho CSV" hasconnection="true" inline="true">
+      <connection class='textscan' dbname='meesho_sales.csv' />
+      <metadata-records/>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name="Starter View">
+      <table>
+        <view/>
+      </table>
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name="Executive Dashboard">
+      <zone type="layout-container">
+      </zone>
+    </dashboard>
+  </dashboards>
+</workbook>
