@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Brand,Category,State,Quantity,Price,Revenue
+O-1001,2023-01-12,Nike,Footwear,Maharashtra,2,2500,5000
+O-1002,2023-02-05,Zara,Clothing,Karnataka,1,1800,1800
+O-1003,2023-02-17,Adidas,Clothing,Delhi,3,2200,6600
+O-1004,2023-03-03,H&M,Accessories,Gujarat,2,900,1800
+O-1005,2023-03-18,Puma,Footwear,Tamil Nadu,1,3000,3000
+O-1006,2023-04-10,Levis,Clothing,Uttar Pradesh,4,1200,4800
+O-1007,2023-04-22,UCB,Home Decor,Maharashtra,2,1500,3000
+O-1008,2023-05-07,Meesho Originals,Electronics,Karnataka,1,4500,4500
+O-1009,2023-05-25,Nike,Footwear,Delhi,3,2800,8400
+O-1010,2023-06-11,Zara,Clothing,Gujarat,2,2000,4000
+O-1011,2023-07-02,H&M,Accessories,Tamil Nadu,1,750,750
+O-1012,2023-07-18,Adidas,Footwear,Uttar Pradesh,2,2600,5200
+O-1013,2023-08-09,Levis,Clothing,Maharashtra,5,1300,6500
+O-1014,2023-08-27,Puma,Clothing,Delhi,1,2100,2100
+O-1015,2023-09-12,UCB,Home Decor,Karnataka,3,1600,4800
